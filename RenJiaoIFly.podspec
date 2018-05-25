@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
 
   end
   
-  s.frameworks = "CoreLocation","CoreTelephony","AddressBook","AudioToolbox","AVFoundation","SystemConfiguration","Foundation","UIKit",,"QuartzCore","CoreGraphics","AddressBookUI","Contacts","ContactsUI"
+  s.frameworks = "CoreLocation","CoreTelephony","AddressBook","AudioToolbox","AVFoundation","SystemConfiguration","Foundation","UIKit","QuartzCore","CoreGraphics","AddressBookUI","Contacts","ContactsUI"
 
   s.ios.library = 'z'
 
