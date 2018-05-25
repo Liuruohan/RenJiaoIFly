@@ -6,16 +6,16 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/Liuruohan/RenJiaoIFly"
 
-  s.author       = { "cntapple1" => "beifengliang@163.com" }
+  s.author       = { "RenJiaoIFly" => "RenJiao" }
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
-  s.summary      = "A Library for iOS to use for RenJiaoiFly."
+  s.summary      = "自己的讯飞语音私有库，别随便导入。"
 
   
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/Liuruohan/RenJiaoIFly" }
+  s.source       = { :git => "https://github.com/Liuruohan/RenJiaoIFly.git" }
   
   s.vendored_frameworks = "iflyMSC.framework"
 
