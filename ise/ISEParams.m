@@ -7,7 +7,7 @@
 //
 
 #import "ISEParams.h"
-#import <IFlyMSC/IFlyMSC.h>
+#import "IFlyMSC/IFlyMSC.h"
 
 
 #pragma mark - consts for key stored
