@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "RenJiaoIFly"
 
-  s.version      = "1.1.0"
+  s.version      = "1.1.1"
 
   s.homepage     = "https://github.com/Liuruohan/RenJiaoIFly"
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.summary      = "自己的讯飞语音私有库，别随便导入。"
 
   
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/Liuruohan/RenJiaoIFly.git" }
   
